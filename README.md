@@ -1,5 +1,5 @@
 # LAAMS
-![Logo.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ff2c16f8-90c0-45c4-a8bb-51a77b465f91/cfd5c3ed-1aae-4335-8bbe-0496d4b8c40c/Logo.png)
+![Logo](https://github.com/Going9/LAAMS/assets/105552606/646666cf-7094-494b-8e1f-3b7d3b580b73)
 # 🔥 프로젝트 개요
 
 프로젝트 기간: 2023.10.09 ~ 2023.11.17 <br> 
@@ -41,7 +41,7 @@ Language Assessment Attendance Management System <br>
             <img src="https://avatars.githubusercontent.com/seong-un" width="140px" /> <br>BE</a></td>
         <td height="140px" align="center"> <a href="https://github.com/Going9">
             <img src="https://avatars.githubusercontent.com/Going9" width="140px" /> <br>BE</a></td>
-        <td height="140px" align="center"> <a href="https://github.com/hjkasd">
+        <td height="140px" align="center"> <a href="https://github.com/hjhj-kk">
             <img src="https://avatars.githubusercontent.com/hjkasd" width="140px" /> <br>BE</a></td>
         <td height="140px" align="center"> <a href="https://github.com/pdanbi00">
             <img src="https://avatars.githubusercontent.com/pdanbi00" width="140px" /> <br>BE</a></td>        
@@ -90,7 +90,7 @@ Face-Detection을 이용해 기존의 번거롭고 관리가 힘들었던 출결
 
 # 🌊 erd
 
-![LAAMS_ERD.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ff2c16f8-90c0-45c4-a8bb-51a77b465f91/5b69e323-e73d-412a-abf6-8cfc3aef3564/LAAMS_ERD.png)
+![LAAMS_ERD](https://github.com/Going9/LAAMS/assets/105552606/716bf142-b567-4236-9081-f6fed1c6203b)
 
 <br>
 <br>

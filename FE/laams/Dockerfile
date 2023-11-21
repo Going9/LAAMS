@@ -14,8 +14,8 @@ RUN npm run build
 FROM nginx:latest
 
 
-COPY ./fullchain.pem /etc/letsencrypt/live/k9d101.p.ssafy.io/fullchain.pem
-COPY ./privkey.pem /etc/letsencrypt/live/k9d101.p.ssafy.io/privkey.pem
+COPY ./fullchain.pem /etc/letsencrypt/live/backendurl/fullchain.pem
+COPY ./privkey.pem /etc/letsencrypt/live/backendurl/privkey.pem
 
 
 COPY ./Nginx.conf /etc/nginx/conf.d/react.conf

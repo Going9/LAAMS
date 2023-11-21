@@ -104,17 +104,29 @@ Face-Detection을 이용해 기존의 번거롭고 관리가 힘들었던 출결
 
 ### 감독관
 + 출결관리 및 보상 요청
-+ 에러리포트
-+ 부정행위 감독
 ![DR상세](https://github.com/Going9/LAAMS/assets/105552606/4619be23-b89f-485f-93ba-4b49020d3056)
+
++ 부정행위(대리출석) 의심대상자 캡쳐
+![부정행위 의심대상자](https://github.com/Going9/LAAMS/assets/105552606/43f2aa9a-6531-4501-b9f5-753423da1c42)
+
++ 부정행위 의심대상자의 민증사진 등과 현장 캡쳐본 사진 비교 및 일치율 검토
+![사진비교 전](https://github.com/Going9/LAAMS/assets/105552606/9db86a90-d7b3-44fb-9a9a-3877685f33df)
+![사진비교 후](https://github.com/Going9/LAAMS/assets/105552606/387f4e5f-55c4-40f3-9d0a-e4afead7b2f9)
 
 ### 센터 담당자 
 + 감독관 요청 처리
 ![CM_캘린더](https://github.com/Going9/LAAMS/assets/105552606/045a74a2-7fd6-41f0-b033-925a52dda0ea)
 
 ### 응시자
-+ 시험 신청 및 face-detection으로 출석
++ 시험 신청
 ![scrnli_2023- 11- 21- 오전 10-37-26](https://github.com/Going9/LAAMS/assets/105552606/4288e864-5baf-443a-a1fc-c6ccedc53d8d)
+
++ face-detection으로 출석
+![응시자 얼굴 인식 출결](https://github.com/Going9/LAAMS/assets/105552606/4cfc01d2-ba2b-4788-8887-397ecb062ef4)
+
++ 왼쪽이나 오른쪽으로 고개 돌렸을 시 부정행위 판단
+![응시자 왼쪽 부정행위](https://github.com/Going9/LAAMS/assets/105552606/8c258e51-1a63-4969-857b-f41f7b17c4e7)
+![응시자 오른쪽 부정행위](https://github.com/Going9/LAAMS/assets/105552606/68b8880b-a6be-40f1-8029-637fec601eb4)
 
 
 
